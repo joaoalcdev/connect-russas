@@ -1,3 +1,6 @@
+import '@/styles/globals.css';
+import '@/../public/output.css';
+
 export const metadata = {
     title: 'Hello World',
     description: 'Hello World com Next.js 13',
